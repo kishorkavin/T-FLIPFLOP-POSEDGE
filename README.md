@@ -1,5 +1,4 @@
 # T-FLIPFLOP-POSEDGE
-DATE:26|11|24
 
 
 **AIM:**
@@ -61,7 +60,7 @@ begin
   end
 endmodule
 ~~~
- Developed by:GURUPARAN G RegisterNumber:24001677
+ Developed by:kishore kavin  RegisterNumber:24005324
 
 
 **RTL LOGIC FOR FLIPFLOPS**
