@@ -30,8 +30,8 @@ From the above characteristic table, we can directly write the next state equati
 
 **PROGRAM**
 ```
-Developed by-S.Ajmal Ali
-Register number-24009653
+Developed by-kishore kavin
+Register number-24005324
 module unit6(T,clk,Q,Qbar);
 input T,clk;
 output reg Q;
